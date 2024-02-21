@@ -30,6 +30,14 @@ import com.example.geometry.Circle;
 import com.example.geometry.Triangle;
 
 ```
+Compile the Java source files: Open a terminal or command prompt, navigate to the directory containing your Java source files (Shape.java, Rectangle.java, Circle.java, Triangle.java, and ShapeArray.java), and execute the following command to compile them:
+```bash
+javac Shape.java Rectangle.java Circle.java Triangle.java ShapeArray.java
+```
+Run the program: After successful compilation, execute the following command to run the ShapeArray class:
+```bash
+java ShapeArray
+```
 
 ## Classes
 
